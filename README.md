@@ -61,4 +61,7 @@ Track down the part where we need to modify.
 Create a report that consists of [Issue Description, Root Cause Analysis, Proposed Solustions].
 Create modifications folder first.
 
+----
 
+## Logging Strategy
+We need a general-purpose, highly extensible logger that can perform detailed log investigation.
