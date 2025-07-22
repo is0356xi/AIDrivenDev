@@ -1,5 +1,11 @@
 # AIDrivenDev
 
+## Implementation Process
+First, we have to create specifications.md that represents what and how we create.
+If we needed, we create ui-mockup as svg file.
+
+-------
+
 ## Principles
 
 ### 1. Separation of Concerns
