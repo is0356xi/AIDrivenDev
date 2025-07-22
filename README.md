@@ -51,6 +51,7 @@ yaml is recommended
 
 ## Test Strategy
 Test ensures that an implementation meets requirements and preserve existing other logic.
+Use pytest.
 Always consider edge cases.
 Create tests folder first.
 
