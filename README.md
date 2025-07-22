@@ -46,17 +46,19 @@ Design that depends on abstractions rather than concrete implementations. This e
 
 ## Utilize Config File
 Create config file to set variables that should be changed by outer components (e.g, user, data format).
-
+yaml is recommended
 ----
 
 ## Test Strategy
 Test ensures that an implementation meets requirements and preserve existing other logic.
 Always consider edge cases.
+Create tests folder first.
 
 ----
 
 ## Modification Process
 Track down the part where we need to modify.
 Create a report that consists of [Issue Description, Root Cause Analysis, Proposed Solustions].
+Create modifications folder first.
 
 
