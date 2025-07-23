@@ -8,7 +8,7 @@ If we needed, we create ui-mockup as svg file.
 
 ## Implementation Process
 Adopt Agile Development where we iterate planning, small development and testing.
-Never implement a lot of feature at once.
+Never implement a lot of feature at once, you have to proceed with small step.
 
 ---
 
