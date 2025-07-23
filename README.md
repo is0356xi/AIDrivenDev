@@ -8,7 +8,10 @@ If we needed, we create ui-mockup as svg file.
 
 ## Implementation Process
 Adopt Agile Development where we iterate planning, small development and testing.
-Never implement a lot of feature at once. You have to proceed with small step checking what your implementation works correctly.
+Never implement a lot of feature at once. 
+The key is to work in samll, incremental steps.
+We need to validat our changes as we go to ensure we're not breaking anything.
+This iterative approach is the safest way to move forward.
 
 ---
 
