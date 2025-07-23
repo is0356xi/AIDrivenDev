@@ -51,16 +51,14 @@ yaml is recommended.
 
 ## Test Strategy
 Test ensures that an implementation meets requirements and preserve existing other logic.
-Use testing library.
+Use testing framework.
 Always consider edge cases.
 Create tests folder first.
 
 ----
 
 ## Modification Process
-Track down the part where we need to modify.
-Create a report that consists of [Issue Description, Root Cause Analysis, Proposed Solustions].
-Create modifications folder first.
+Track down the part where we need to modify considering "Issue Description", "Root Cause Analysis" and "Proposed Solustion" before implementing any edits.
 
 ----
 
