@@ -27,6 +27,7 @@ Track down the part where we need to modify considering "Issue Description", "Ro
 
 ## Logging Strategy
 We need a general-purpose, highly extensible logger that can perform detailed log investigation.
+We have to be able to easily specify the log that we want to output.
 
 -----
 
