@@ -9,8 +9,8 @@ If we needed, we create ui-mockup as svg file.
 ## Implementation Process
 Adopt Agile Development where we iterate planning, small development and testing.
 Never implement a lot of feature at once. 
-The key is to work in samll, incremental steps.
-We need to validat our changes as we go to ensure we're not breaking anything.
+The key is to work in small, incremental steps.
+We need to validate our changes as we go to ensure we're not breaking anything.
 This iterative approach is the safest way to move forward.
 
 ---
@@ -25,7 +25,7 @@ Create tests folder first.
 
 ## Modification Process
 If you need, you can create dedicated log files to track down the root cause about user-request, and ask the user to run the application again to create actual logs.
-Track down the part where we need to modify considering "Issue Description", "Root Cause Analysis" and "Proposed Solustion" before implementing any edits.
+Track down the part where we need to modify considering "Issue Description", "Root Cause Analysis" and "Proposed Solution" before implementing any edits.
 
 ----
 
