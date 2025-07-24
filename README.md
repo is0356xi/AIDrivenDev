@@ -24,6 +24,7 @@ Create tests folder first.
 ----
 
 ## Modification Process
+If you need, you can create dedicated log files to track down the root cause about user-request, and ask the user to run the application again to create actual logs.
 Track down the part where we need to modify considering "Issue Description", "Root Cause Analysis" and "Proposed Solustion" before implementing any edits.
 
 ----
