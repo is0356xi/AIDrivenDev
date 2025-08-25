@@ -23,12 +23,6 @@ Create tests folder first.
 
 ----
 
-## Modification Process
-If you need, you can create dedicated log files to track down the root cause about user-request, and ask the user to run the application again to create actual logs.
-Track down the part where we need to modify considering "Issue Description", "Root Cause Analysis" and "Proposed Solution" before implementing any edits.
-
-----
-
 ## Logging Strategy
 We need a general-purpose, highly extensible logger that can perform detailed log investigation.
 To make our logs easier to parse and monitor, we need to have more granular control over the output. I propose we route logs to different files based on two criteria: the log level (e.g., ERROR vs. INFO) and the source module or feature. For example, all ERROR logs from the payment_gateway should go to one file, while INFO logs from the same module go to another. This will make debugging critical issues much faster.
